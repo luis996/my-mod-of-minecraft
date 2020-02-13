@@ -2,7 +2,7 @@
   "_fv": 5,
   "_type": "function",
   "definition": {
-    "code": "/kill @e[type=\"!Player\"]",
+    "code": "/kill @e[type=\"!Player\"]\nsay succesfully killed all",
     "name": "killall",
     "namespace": "mod"
   }
